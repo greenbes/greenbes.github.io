@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Title goes here
+title: Changing the title to something else.
 date: {}
 categories: jekyll update
 published: true
