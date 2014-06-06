@@ -1,7 +1,10 @@
 ---
 layout: post
-title:  "Title goes here"
-date:   2014-05-26 13:43:08
+title: Title goes here
+date: {}
 categories: jekyll update
+published: true
 ---
+
+Hey, cool.  This thing lets me write directly into a github text file.
 
